@@ -2,7 +2,7 @@
 
 Welcome to my data-driven world! I'm MedAzzam, a passionate data enthusiast.
 
-👋 Welcome to my data-driven world! I'm passionate about all things data, from engineering pipelines to exploring insights, and crafting impactful ML/DL models. When I'm not diving into data, you'll find me building insightful dashboards and advocating for strong data governance practices.
+I'm passionate about all things data, from engineering pipelines to exploring insights, and crafting impactful ML/DL models. When I'm not diving into data, you'll find me building insightful dashboards and advocating for strong data governance practices.
 
 Explore my repositories to find projects related to these topics. Let's unlock the insights hidden in data together! 📊📚
 
